@@ -25,12 +25,6 @@
   box-shadow: 0 10px 30px rgba(90, 90, 100, 0.4);
 }
 
-.container div {
-  position: relative;
-  height: 100%;
-  width: 100%;
-}
-
 button {
   width: 100%;
   margin-top: 30px;
@@ -38,7 +32,6 @@ button {
   padding: 18px 0;
   color: #fff;
   border: none;
-  outline: none;
   cursor: pointer;
   font-family: 'Poppins', sans-serif;
   font-size: 3vmin;
