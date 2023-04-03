@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href="https://geometric-generator.vercel.app/">
     <img src="geometric_generator.gif" alt="geometrics">
   </a>
   
@@ -9,7 +10,7 @@
   </p>
 
   <p align="center">
-    <a href="https://geometric-generator.vercel.app/" style="color:#66FF00; font-size:25px">
+    <a href="https://geometric-generator.vercel.app/">
     Teste o projeto! Link do deploy ● ▲ ◥
     </a>
   </p>
